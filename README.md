@@ -1,4 +1,4 @@
-# my-app
+# VueBeginner
 
 ## Project setup
 ```
